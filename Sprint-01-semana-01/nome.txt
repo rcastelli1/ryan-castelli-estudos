@@ -23,3 +23,5 @@ Numa escala 0 a 5: 0: Zero conhecimentos 1: Conhecimentos mínimos 2: Conhecimen
 
 - SQL (1)
 
+O que faço nas horas vagas: 
+Jogo video games, leio livros, escuto música, estudo e jogo xadrez e assisto filmes e séries.
