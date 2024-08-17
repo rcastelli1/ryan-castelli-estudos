@@ -60,7 +60,7 @@ The Pratical Guide - Maximilian
 
 Comandos do git:
 
-O hard faz com que tudo antes do commit selecionado seja excluído permanentemente, não há maneira de voltar atrás: git reset --hard (numero do commit)
+O hard faz com que tudo antes do commit selecionado seja excluído permanentemente, não há maneira de voltar atrás: git reset --hard (numero do commit) 
 
 "git init" inicializa o repositorio
 
