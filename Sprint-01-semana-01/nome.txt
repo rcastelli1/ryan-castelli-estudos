@@ -1,0 +1,25 @@
+Nome: Ryan Castelli Fernandes Pacífico
+
+Idade: 20 
+
+Curso: Análise e Desenvolvimento de Sistemas(ADS) 3° Semestre
+
+Meus Conhecimentos:
+Numa escala 0 a 5: 0: Zero conhecimentos 1: Conhecimentos mínimos 2: Conhecimentos básicos 3: Conhecimentos intermediários 4: Conhecimentos avançados 5: Especialista
+
+- JS/React (3)
+
+- React Native (3)
+
+- Flutter (2)
+
+- Java (3)
+
+- HTML e CSS (4)
+
+- Git (2)
+
+- Bootstrap 5 (3)
+
+- SQL (1)
+
