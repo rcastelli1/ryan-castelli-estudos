@@ -1,0 +1,20 @@
+.joke {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  .response {
+    font-style: italic;
+  }
+  
+  .delete-btn {
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
