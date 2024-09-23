@@ -1,0 +1,12 @@
+.joke-forms {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px; 
+}
+
+.add-btn {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
