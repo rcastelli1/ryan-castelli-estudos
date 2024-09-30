@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Joke from '../Joke/Joke'
 import JokeForm from '../JokeForm/JokeForm'
-import LoadingGif from '../assets/XVo6.gif';
+import LoadingGif from '../../assets/XVo6.gif';
 
 
 function JokeList() {
