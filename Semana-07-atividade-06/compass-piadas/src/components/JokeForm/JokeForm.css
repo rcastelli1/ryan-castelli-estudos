@@ -1,0 +1,18 @@
+.joke-forms {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px; 
+}
+
+.add-btn {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  cursor: pointer; 
+}
+
+.add-btn.disabled {
+  background-color: rgba(0, 128, 0, 0.5); 
+  cursor: not-allowed; 
+}
